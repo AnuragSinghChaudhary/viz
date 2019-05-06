@@ -1,24 +1,24 @@
 {
-        name: "CONTAMINATION",
-        value: 8
+        "name": "CONTAMINATION",
+        "value": 8
       },
       {
-        name: "WATER",
-        value: 15
+        "name": "WATER",
+        "value": 15
       },
       {
-        name: "SEWAGE",
-        value: 10
+        "name": "SEWAGE",
+        "value": 10
       },
       {
-      	name: "WATER SUPPLY",
-      	value: 5
+      	"name": "WATER SUPPLY",
+      	"value": 5
       },
       {
-        name: "BILLING",
-        value: 19
+        "name": "BILLING",
+        "value": 19
       },
       {
-        name: "POTHOLE",
-        value: 9
+        "name": "POTHOLE",
+        "value": 9
       }
