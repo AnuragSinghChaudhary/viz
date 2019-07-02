@@ -1,0 +1,153 @@
+[
+  [
+    { "name": "Water", "days": 3 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 20 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Manhole", "days": 5 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Pothole", "days": 4 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Pothole", "days": 4 },
+    { "name": "Street Light", "days": 4 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Pothole", "days": 4 },
+    { "name": "Street Light", "days": 4 },
+    { "name": "Congestion", "days": 6 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Pothole", "days": 4 },
+    { "name": "Street Light", "days": 4 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Pothole", "days": 4 },
+    { "name": "Street Light", "days": 4 },
+    { "name": "Electricity", "days": 1 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Pothole", "days": 4 },
+    { "name": "Street Light", "days": 4 },
+    { "name": "Electricity", "days": 1 },
+    { "name": "Footpath", "days": 2 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Pothole", "days": 4 },
+    { "name": "Street Light", "days": 4 },
+    { "name": "Electricity", "days": 1 },
+    { "name": "Footpath", "days": 2 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Pothole", "days": 4 },
+    { "name": "Street Light", "days": 4 },
+    { "name": "Electricity", "days": 1 },
+    { "name": "Footpath", "days": 2 },
+    { "name": "Traffic-lights", "days": 1 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Pothole", "days": 4 },
+    { "name": "Street Light", "days": 4 },
+    { "name": "Electricity", "days": 1 },
+    { "name": "Footpath", "days": 2 },
+    { "name": "Traffic-lights", "days": 1 },
+    { "name": "Billing", "days": 14 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Pothole", "days": 4 },
+    { "name": "Street Light", "days": 4 },
+    { "name": "Electricity", "days": 1 },
+    { "name": "Footpath", "days": 2 },
+    { "name": "Traffic-lights", "days": 1 },
+    { "name": "Billing", "days": 14 },
+    { "name": "Trash", "days": 3 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Pothole", "days": 4 },
+    { "name": "Street Light", "days": 4 },
+    { "name": "Electricity", "days": 1 },
+    { "name": "Footpath", "days": 2 },
+    { "name": "Traffic-lights", "days": 1 },
+    { "name": "Billing", "days": 14 },
+    { "name": "Trash", "days": 3 },
+    { "name": "Sewage", "days": 5 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Pothole", "days": 4 },
+    { "name": "Street Light", "days": 4 },
+    { "name": "Electricity", "days": 1 },
+    { "name": "Footpath", "days": 2 },
+    { "name": "Traffic-lights", "days": 1 },
+    { "name": "Billing", "days": 14 },
+    { "name": "Trash", "days": 3 },
+    { "name": "Sewage", "days": 5 },
+    { "name": "Contamination", "days": 9 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Pothole", "days": 4 },
+    { "name": "Street Light", "days": 4 },
+    { "name": "Electricity", "days": 1 },
+    { "name": "Footpath", "days": 2 },
+    { "name": "Traffic-lights", "days": 1 },
+    { "name": "Billing", "days": 14 },
+    { "name": "Trash", "days": 3 },
+    { "name": "Sewage", "days": 5 },
+    { "name": "Contamination", "days": 9 },
+    { "name": "Drainage", "days": 4 }
+  ],
+  [
+    { "name": "Water", "days": 3 },
+    { "name": "Faulty Meter", "days": 2 },
+    { "name": "Pothole", "days": 4 },
+    { "name": "Street Light", "days": 4 },
+    { "name": "Electricity", "days": 1 },
+    { "name": "Footpath", "days": 2 },
+    { "name": "Traffic-lights", "days": 1 },
+    { "name": "Billing", "days": 14 },
+    { "name": "Trash", "days": 3 },
+    { "name": "Sewage", "days": 5 },
+    { "name": "Contamination", "days": 9 },
+    { "name": "Drainage", "days": 4 },
+    { "name": "Billing", "days": 3 }
+  ]
+]
