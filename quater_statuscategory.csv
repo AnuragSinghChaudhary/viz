@@ -1,0 +1,31 @@
+usage,social_network,share
+Registered,Water,0.87
+Open,Water,0.84
+Closed,Water,0.82
+Not Fixable,Water,0.84
+Duplicate,Water,0.83
+Registered,Sewage,0.83
+Open,Sewage,0.88
+Closed,Sewage,0.87
+Not Fixable,Sewage,0.88
+Duplicate,Sewage,0.84
+Registered,Pothole,0.88
+Open,Pothole,0.87
+Closed,Pothole,0.87
+Not Fixable,Pothole,0.53
+Duplicate,Pothole,0.75
+Registered,Electricity,0.56
+Open,Electricity,0.67
+Closed,Electricity,0.58
+Not Fixable,Electricity,0.71
+Duplicate,Electricity,0.88
+Registered,Drainage,0.81
+Open,Drainage,0.64
+Closed,Drainage,0.66
+Not Fixable,Drainage,0.62
+Duplicate,Drainage,0.86
+Registered,Billing,0.18
+Open,Billing,0.86
+Closed,Billing,0.18
+Not Fixable,Billing,0.48
+Duplicate,Billing,0.76
